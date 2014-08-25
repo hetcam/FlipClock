@@ -1,10 +1,12 @@
 .clock {
     transform-origin: 0 0;
-    transform: scale(0.5);
+    transform: scale(0.38);
     zoom: 40%; // for ie 9
   }
 
 .flip-clock-label {
-	font-size: 20pt;
-	margin-right: -25px;
+	font-size: 26pt;
+	#margin-right: -40px;
+	margin-top: 160px;
+	width: 80px;
 }

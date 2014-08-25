@@ -2572,7 +2572,7 @@ var FlipClock;
 		'days'    : 'D&#205;as',
 		'hours'   : 'Horas',
 		'minutes' : 'Minutos',
-		'seconds' : 'Segundo'	
+		'seconds' : 'Segundos'	
 
 	};
 	
